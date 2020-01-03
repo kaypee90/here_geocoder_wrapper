@@ -7,8 +7,8 @@ setup(
   description = 'Here Geocoder API wrapper',
   author = 'Kwabena Asante',
   author_email = 'asantekwabena2013@gmail.com',
-  url = '',
-  download_url = '',
+  url = 'https://kwabena.dev',
+  download_url = 'https://github.com/kaypee90/here_geocoder_wrapper/archive/v0.1.tar.gz',
   keywords = ['here', 'geocoder', 'api'],
   install_requires=[
           'requests',
