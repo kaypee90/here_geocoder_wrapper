@@ -1,4 +1,6 @@
-# heregeocoder - Python wrapper for Here.com Geocoder API!
+heregeocoder - Python wrapper for Here.com Geocoder API!
+---------------------------------------------------------
+
 The is a python wrapper built around here.com geocoder rest api
 
 Requirements
@@ -26,6 +28,6 @@ Then pass your search text in the search methode of the GeocoderApi object to re
 
     from heregeocoder import GeocoderApi
 
-geocoder = GeocoderApi(<api_key>)
-response = geocoder.search(<search_text>)
-print(response.json())
+	geocoder = GeocoderApi(<api_key>)
+	response = geocoder.search(<search_text>)
+	print(response.json())
