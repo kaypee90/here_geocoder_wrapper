@@ -1,6 +1,8 @@
 import requests
 
 class GeocoderApi:
+    """Geocoder API wrapper class """
+    
     def __init__(self, api_key):
         self.api_key = api_key
         self.base_url = "https://geocoder.ls.hereapi.com/6.2/geocode.json"
