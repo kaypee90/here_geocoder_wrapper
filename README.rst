@@ -1,7 +1,7 @@
 heregeocoder - Python wrapper for Here.com Geocoder API!
 ---------------------------------------------------------
 
-The is a python wrapper built around here.com geocoder rest api
+The is a python wrapper built around here.com geocoder rest api.
 
 Requirements
 ------------
@@ -21,7 +21,7 @@ Install using pip:
 Usage
 -----
 
-Provide the api key you genereated on https://www.here.com/ in the GeocoderApi Constructor. 
+Provide the api key you genereated on https://www.here.com/ in the GeocoderApi Constructor at the point of initialization. 
 Then pass your search text in the search methode of the GeocoderApi object to receive a response object
 
 .. code-block:: python
