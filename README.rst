@@ -1,5 +1,6 @@
-heregeocoder - Python wrapper for Here.com Geocoder API! (Archived and discontinued)
----------------------------------------------------------
+# heregeocoder - Python wrapper for Here.com Geocoder API! (Archived and discontinued)
+
+--------------------------------------------------------------------------------------
 
 The is a python wrapper built around here.com geocoder rest api.
 
